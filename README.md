@@ -2,9 +2,6 @@
 
 Exploratory Data Analysis of airline passenger survey data to understand **customer satisfaction, service quality, passenger segments, and flight delays** using Python.
 
-## 📊 Dashboard Preview
-
-![Airline Customer Satisfaction Dashboard](airline_customer_satisfaction_dashboard.png)
 
 ## 🛠️ Tools Used
 
